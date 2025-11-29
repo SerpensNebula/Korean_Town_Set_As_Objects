@@ -1,8 +1,8 @@
 ##grflangid 0x01
 
 # GRF name and description
-STR_GRF_NAME                                      	:Korean Town Objects beta0.9.0
-STR_GRF_DESC                                      	:Object version of Korean Town Set AND more landmarks of South Korea. WIP {}{}{BLACK}License: {SILVER}GNU GPL v3
+STR_GRF_NAME                                      	:Korean Town Set As Objects beta0.9.0
+STR_GRF_DESC                                      	:Korean Town Set As Objects adds object version of town houses of Korean Town Set AND more unique landmarks of South Korea. {}{}{BLACK}License: {SILVER}GNU GPL v3
 
 STR_GRF_URL                                       	:https://github.com/SerpensNebula/Korean-Town-Set-As-Objects
 

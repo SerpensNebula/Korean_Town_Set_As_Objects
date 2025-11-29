@@ -2,7 +2,7 @@
 
 # GRF name and description
 STR_GRF_NAME                                        :한국 도시 세트 오브젝트 beta0.9.0
-STR_GRF_DESC                                        :한국의 랜드마크와 아파트 오브젝트를 추가하는 NewGRF입니다. 한국 도시 세트의 도시건물들도 모두 오브젝트로 추가할 예정입니다. {}{}{BLACK}라이센스: {SILVER}GNU GPL v3
+STR_GRF_DESC                                        :오브젝트로 된 한국도시세트의 도시건물들과, 고유의 랜드마크와 아파트 오브젝트를 추가하는 NewGRF입니다. {}{}{BLACK}라이센스: {SILVER}GNU GPL v3
 
 STR_GRF_URL                                         :https://github.com/SerpensNebula/Korean-Town-Set-As-Objects
 
