@@ -4,9 +4,11 @@
 This is main page of OpenTTD NewGRF 'Korean Town Set As Objects'.
 
 버전명은 한국도시세트와 동일합니다.
-Version name of this NewGRF is same with Korean Town Set. 
+Version name of this NewGRF is the same with Korean Town Set. 
 
 도시건물 버전은 [한국도시세트](https://github.com/SerpensNebula/Korean-Town-Set)를 사용해주세요.
 If you want town houses version, please use [Korean Town Set](https://github.com/SerpensNebula/Korean-Town-Set).
 
 <img width="820" height="940" alt="일러스트2" src="https://github.com/user-attachments/assets/90025e65-b0cc-49c0-9036-2c02af00d990" />
+
+<img width="1080" height="520" alt="일러스트4" src="https://github.com/user-attachments/assets/2d8196b4-5be8-4678-b0d6-04909161c94d" />
